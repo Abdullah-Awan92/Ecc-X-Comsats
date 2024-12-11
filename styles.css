@@ -179,7 +179,7 @@ section {
   padding: 40px;
   text-align: center;
   border-radius: 8px;
-  margin: 30px 0;
+  margin: 30px 50px;
   animation: pulse 2s infinite;
   padding-top: 80px; /* Adjusted to account for fixed header */
 }
